@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyGenSigning", "KeyGenSigning\KeyGenSigning.csproj", "{359E4E9C-F5E2-4876-B12A-6B462FC053E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertLib", "CertLib\CertLib.csproj", "{94AE4CAB-E021-4469-B142-F64701E25022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359E4E9C-F5E2-4876-B12A-6B462FC053E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359E4E9C-F5E2-4876-B12A-6B462FC053E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359E4E9C-F5E2-4876-B12A-6B462FC053E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359E4E9C-F5E2-4876-B12A-6B462FC053E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94AE4CAB-E021-4469-B142-F64701E25022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94AE4CAB-E021-4469-B142-F64701E25022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94AE4CAB-E021-4469-B142-F64701E25022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94AE4CAB-E021-4469-B142-F64701E25022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
